@@ -1,0 +1,17 @@
+{
+    "bg": "https://wallpaperaccess.com/full/418554.jpg",
+    "title": "",
+    "description": "",
+    "theme" : {
+        "colors": {
+            "primary": "#78E0DC", 
+            "secundary": "#C3EB78",
+            "tertiary": "#7AE7C7",
+            "primaryBg": "#D6FFB7",
+            "secondaryBg": "#0A2E36",
+            "textColor": "#333",
+            "secondaryText": "#fff",
+            "wrong": "#EC0B43"
+        }
+    }
+}
